@@ -1,2 +1,2 @@
 # site-clinica
-site desenvolvido para fins educacional
+site desenvolvido para fins de avaliação para vagas de emprego
